@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#EC635D" x="76" y="110" width="348" height="23"></rect>
+        <rect id="Rectangle-Copy" fill="#5970F6" x="76" y="368" width="348" height="23"></rect>
+        <text id="#CREATE-YOUR-FUTURE" fill="#000000" font-family="ArchivoBlack-Regular, Archivo Black" font-size="60" font-weight="700" line-spacing="62" letter-spacing="-0.471429">
+            <tspan x="85.0000015" y="192.579956">#CREATE</tspan>
+            <tspan x="142.162858" y="254.579956">YOUR</tspan>
+            <tspan x="100.844287" y="316.579956">FUTURE</tspan>
+        </text>
+    </g>
+</svg>
